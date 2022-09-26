@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Учебники Кыргызстана</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_choose_school">ChooseSchool</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="choose_school_text">Учебники по языку обучения</string>
+    <string name="about">Приветствую. \n Мы команда волонетеров программистов решили написать это
+        приложение для того чтобы помочь школьникам в эти непросты времена. Мы стараемся найти
+        как можно больше учебников и каждый день загружаем новые учебники. Из-за того что мы
+        спешили функционал весьма ограничен, но со временем будем работать над этим. \n Спасибо
+        что вы с нами! \n \n Мы в телеграмме: @DosU13\n Все вопросы можете задавать здесь.</string>
+    <string name="delete_book">Удалить книгу?</string>
+    <string name="delete_book_dialog">Вы уверены что хотите удалить эту книгу из своего смартфона?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="back_button">back_button</string>
+    <string name="book_name">book_name</string>
+    <string name="books_size">book_size</string>
+    <string name="book_view">book_view</string>
+    <string name="profile">Профиль</string>
+    <string name="read">Открыть книгу  -></string>
+    <string name="didnt_found_book">Не нашли книгу которую искали?</string>
+    <string name="report">Сообщить о недостающей книге</string>
+    <string name="report_text">Напишите нам сообщение содержащее: \n 1. Автора учебника \n 2. Предмет \n 3. Класс \n 4. Издательство и год (если возможно)</string>
+    <string name="message">Сообщение</string>
+    <string name="send">Отправить</string>
+    <string name="ok">OK</string>
+    <string name="message_send_error">Что-то пошло не так попробуйте позже</string>
+    <string name="message_thank">Спасибо за сообщение</string>
+    <string name="message_saved_on_servers">Ваше сообщение сохранено и скоро будет рассмотрено, мы добавим книгу как можно быстрее. Спасибо!</string>
+    <string name="dont_have_permission">У приложения нет доступа к памяти смарфона</string>
+    <string name="coin_description">Это монеты. Монеты даются за активность в приложении. Вы их сможете потратить в магазине.</string>
+    <string name="for_progers">Мы будем рады получить важные советы и критику в адрес нашего приложения. Учебники и советы можно отправить на почту doslan130400@gmail.com</string>
+    <string name="progers">Вы программист/дизайнер/учитель?</string>
+    <string name="for_money_help">Если вам понравился наш сервис и вы хотите скинуть деньги для нашего сервера или на другие расходы
+        то можно скинуть пару сомов на номер +996 703 29 10 36</string>
+    <string name="money_help">Можете помочь материально?</string>
+    <string name="instagram">У вас есть аккаунт инстаграм?</string>
+    <string name="for_help_insta">Вы нам очень поможете если подулитесь нашей страницей @kg_books.kg у вас на странице и подпишитесь, так больше людей узнают о нашем приложении</string>
+    <string name="help_project">Хочу помочь проекту</string>
+    <string name="about_app">О приложении</string>
+</resources>
